@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Mangues bio - Casamance",
+      "location": "Sénégal",
+      "description": "Plantation de 1000 manguiers en agriculture biologique. Certification ECOCERT en cours.",
+      "goal": 50000,
+      "raised": 32400,
+      "roi": 8.5,
+      "duration_months": 12,
+      "nft_count": 42,
+      "image": "https://ipfs.io/ipfs/QmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P"
+    },
+    {
+      "id": 2,
+      "name": "Cacao équitable - Brésil",
+      "location": "Bahia, Brésil",
+      "description": "Coopérative de 200 petits producteurs de cacao. Commerce équitable.",
+      "goal": 75000,
+      "raised": 12800,
+      "roi": 7.2,
+      "duration_months": 18,
+      "nft_count": 15,
+      "image": "https://ipfs.io/ipfs/QmXyZ"
+    }
+  ]
+}

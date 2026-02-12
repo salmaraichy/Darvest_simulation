@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "wallet": "0xB4C0721b05014c510299F8F957653de4B158eD61",
+      "email": "alice.martin@example.com",
+      "name": "Alice Martin",
+      "country": "France",
+      "kyc_verified": true,
+      "registration_date": "2026-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "wallet": "0x1234567890123456789012345678901234567890",
+      "email": "sophie.diop@example.sn",
+      "name": "Sophie Diop",
+      "country": "Sénégal",
+      "kyc_verified": false,
+      "registration_date": "2026-02-03T14:20:00Z"
+    }
+  ]
+}
